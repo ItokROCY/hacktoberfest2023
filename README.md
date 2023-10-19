@@ -11,8 +11,6 @@ Hacktoberfest-2023
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
-Hacktoberfest 2023
-![Event Completed](/scripts/Event_Completed_.png)
 
 # 📌 Videos 📽️:
 
