@@ -38,7 +38,7 @@ git clone https://github.com/surabayadev-org/hacktoberfest2023.git
 ```
 - Navigate to project directory.
 ```terminal
-cd hacktoberfest2023
+cd Hacktoberfest2023
 ```
 
 - Create a new Branch
@@ -46,14 +46,13 @@ cd hacktoberfest2023
 ```markdown
 git checkout -b my-new-branch
 ```
-
-<!--- - Add your Name to `contributors/contributorsList.js`. -->
-
+- Add your Name to `contributors/contributorsList.js`
+- Add your changes in articles/2023-[date]-[month]-[title].md
 ```markdown
 git add .
 ```
-- Commit your changes.
 
+- Commit changes
 ```markdown
 git commit -m "Relevant message"
 ```
